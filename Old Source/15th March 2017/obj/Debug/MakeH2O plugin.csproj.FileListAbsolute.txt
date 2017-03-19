@@ -1,0 +1,6 @@
+G:\Visual Studio Shared Projects\MakeH2O_Plugin\MakeH2O plugin\bin\Debug\MakeH2O plugin.exe.config
+G:\Visual Studio Shared Projects\MakeH2O_Plugin\MakeH2O plugin\bin\Debug\MakeH2O plugin.exe
+G:\Visual Studio Shared Projects\MakeH2O_Plugin\MakeH2O plugin\bin\Debug\MakeH2O plugin.pdb
+G:\Visual Studio Shared Projects\MakeH2O_Plugin\MakeH2O plugin\obj\Debug\MakeH2O plugin.csprojResolveAssemblyReference.cache
+G:\Visual Studio Shared Projects\MakeH2O_Plugin\MakeH2O plugin\obj\Debug\MakeH2O plugin.exe
+G:\Visual Studio Shared Projects\MakeH2O_Plugin\MakeH2O plugin\obj\Debug\MakeH2O plugin.pdb
